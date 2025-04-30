@@ -5,6 +5,10 @@ A web application that demonstrates three different tree-based algorithms:
 - Decision Trees
 - Cartesian Trees
 
+## Live Demo
+
+Check out the live demo of the project at: [Tree-Based Algorithm Visualizer](https://nlds-tree-visualizer.netlify.app/)
+
 ## Features
 - Interactive visualization of tree structures
 - Step-by-step demonstration of each algorithm
